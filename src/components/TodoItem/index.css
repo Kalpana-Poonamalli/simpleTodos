@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.todo-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Roboto;
+}
+.todo-item-para {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+}
+.button {
+  color: #ff0b37;
+  border-style: solid;
+  border-color: #ff0b37;
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 10px;
+}
